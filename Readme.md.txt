@@ -1,4 +1,4 @@
-1. Extract the folder on Desktop
-2. Make sure the name of folder is Scripts
-3. Every automation has a requirement of certain details (please refer cluster.csv & storage.csv)
-
+Extract the folder on Desktop
+Make sure the name of folder is Scripts
+Every automation has a requirement of certain details (please refer cluster.csv & storage.csv)
+Execute the index.ps1
