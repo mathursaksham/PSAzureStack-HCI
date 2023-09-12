@@ -1,0 +1,13 @@
+,volumnename,filesystem,provisioning,Size,Sizetb,sizeinbytes
+2,-aks-mgmt-vol,CSVFS_ReFS,Thin,1024,1,1.10E+12
+3,-logs-vol,CSVFS_ReFS,Thin,1024,1,1.10E+12
+5,-vol01,CSVFS_ReFS,Thin,32768,32,3.52E+13
+6,-vol02,CSVFS_ReFS,Thin,32768,32,3.52E+13
+7,-vol03,CSVFS_ReFS,Thin,32768,32,3.52E+13
+8,-vol04,CSVFS_ReFS,Thin,32768,32,3.52E+13
+9,-vol05,CSVFS_ReFS,Thin,32768,32,3.52E+13
+10,-vol06,CSVFS_ReFS,Thin,32768,32,3.52E+13
+11,-vol07,CSVFS_ReFS,Thin,32768,32,3.52E+13
+12,-vol08,CSVFS_ReFS,Thin,32768,32,3.52E+13
+,-images-vol,CSVFS_ReFS,Thin,2048,2,2.20E+12
+,-platform-vol,CSVFS_ReFS,Thin,10240,10,1.10E+13

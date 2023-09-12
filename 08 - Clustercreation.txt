@@ -1,0 +1,7 @@
+Test Cluster
+Create Cluster
+
+###Add Servers to $serverlist###
+Test-Cluster -Node $ServerList -Include "Storage Spaces Direct", "Inventory", "Network", "System Configuration"
+
+New-Cluster -Name $clustername -Node $ServerList -NoStorage -StaticAddress $clusterip
